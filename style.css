@@ -1,7 +1,7 @@
 /*background:linear-gradient(to bottom right, red, blue); to make it to color in the same time */
 #top {
     display: flex;
-    height: 25vh;
+    height: 100px;
     background-color: rgb(149, 208, 208);
     /*#043382*/
     justify-content: center;
